@@ -16,4 +16,6 @@ Steps
 
 6. Run `yarn install` and `yarn run dev`
 
-7. Visit `localhost:1234`, you should see a supposedly live-updating Bitcoin price viewer.
+7. Visit `localhost:1234`, you should see a supposedly live-updating Bitcoin price viewer. The price should change every 30 seconds or so (as that's the update frequency of the data source).
+
+8. To stop the dev server, press `Ctrl+C` in your shell.
