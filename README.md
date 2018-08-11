@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/VandyHacks/simple-react-demo.svg)](https://greenkeeper.io/)
+
 Simple React Demo
 ==
 
